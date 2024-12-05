@@ -1,0 +1,1 @@
+{'pc.co.in': 27, 'gmail.com': 18, 'yahoo.com': 21, 'outlook.com': 22, 'mns.com': 12}

@@ -1,0 +1,7 @@
+goat
+frog
+ent
+dog
+cat
+ball
+apple
